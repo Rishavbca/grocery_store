@@ -1,2 +1,11 @@
-# grocery_store
-This is a full-stack Grocery Store web application built with HTML, CSS, JavaScript, PHP, and MySQL. It provides a dynamic and responsive user interface for browsing and purchasing groceries online. The front-end is crafted using HTML5 and CSS3 for layout and styling, with JavaScript enhancing interactivity (e.g., cart updates, product filtering). The back-end is developed in PHP, handling user authentication, order processing, and server-side logic. MySQL is used for managing product listings, user data, and order histories. Admin features include product management, order tracking, and customer management via a secure dashboard. The project demonstrates CRUD operations, session management, and secure database interaction. Ideal for learning or adapting into a small e-commerce platform, this project is a solid example of integrating front-end and back-end technologies in a practical, real-world scenario.
+# GROCERY-STORE-MANAGEMENT-SYSTEM-USING-PHP-AND-MYSQL-PHPMYADMIN-
+This project contains my project work on a grocery store management system done on PHP and MYSQL using XAMPP AND PHPMYADMIN
+
+
+STEPS TO RUN:-
+1. INSTALL XAMPP AND RUN APACHE AND SQL.
+2. COPY THE GROCERY FOLDER TO htdocs in xampp FOLDER
+3. LOAD THE grocery.sql table TO PHPMYADMIN USING IMPORT IN PHPMYADMIN IN LOCAL SERVER.
+4. FIRST PAGE IS SIGNUP.
+5. THREE MODES-ADMIN,EMPLOYEEE,AND CUSTOMER. CUSTOMER CREDENTIAL SIGNUPS ARE GIVEN. FOR EMPLOYEE AND ADMIN MODE SEE CREDENTIAL FROM TABLE IN PHPMYADMIN AND LOGIN. ONLY ADMIN CAN ADD EMPLOYEE AS OF NOW.
+6. ADD EMPLOYEE OR ADMIN MANUALLY IN TABLE admin or emploee.
